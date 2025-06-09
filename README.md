@@ -60,7 +60,6 @@ My goal is to leverage my skills to contribute to the field of cybersecurity and
 - **Twitter**: [twitter.com/devkumar](#)
 - **Website**: [cyberswipe.in](https://cyberswipe.in)
 
-## 📈 GitHub Stats
 
 ![Dev Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkumar-swipe&show_icons=true&theme=radical)
 
