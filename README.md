@@ -55,13 +55,11 @@ My goal is to leverage my skills to contribute to the field of cybersecurity and
 
 ## 📫 How to reach me
 
-- **Email**: devkumar@cyberswipe.in
-- **LinkedIn**: [linkedin.com/in/devkumar](#)
-- **Twitter**: [twitter.com/devkumar](#)
+- **Email**: devkumarmahto204@outlook.com
+- **LinkedIn**: https://www.linkedin.com/in/dev-kumar-b1488129b/
 - **Website**: [cyberswipe.in](https://cyberswipe.in)
 
 
-![Dev Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkumar-swipe&show_icons=true&theme=radical)
 
 ## 📄 Blog Posts
 
