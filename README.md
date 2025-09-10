@@ -1,4 +1,4 @@
-# Dev Kumar
+# **Dev Kumar**
 
 **Cybersecurity Enthusiast · Bug Bounty Hunter · Security Researcher**
 
@@ -54,36 +54,6 @@ All repositories under this account are built with a single goal: ethical securi
 - **Version Control:**
     - Git
     - GitHub
-
-## 🌟 Projects
-
-### 1. Smart Street Light Project
-   - **Role**: Vulnerability Finder and Software Tester
-   - **Description**: Worked on identifying and testing vulnerabilities in a smart street lighting system. This real-life project involved using Arduino Uno and Arduino programming, along with C++ and design thinking methodology to ensure the system's security and efficiency.
-   - **Tech Stack**: C++, Arduino Uno, Arduino Programming
-   - **Soft Skills**: Design Thinking
-
-### 2. Securing Smart City Infrastructure
-   - **Role**: Developer, Tester, Vulnerability Finder, and Solver
-   - **Description**: Contributed to securing the infrastructure of a smart city by developing and testing the system, identifying vulnerabilities, and solving them. Used Python and various Linux tools, along with HTML and CSS for the frontend. Simulated the infrastructure using Cisco Packet Tracer.
-   - **Tech Stack**: Python, HTML, CSS, Linux Tools, Cisco Packet Tracer
-
-## 🔧 Tools & Technologies
-
-- **IDEs & Editors**:
-  - Visual Studio Code
-  - PyCharm
-  - Sublime Text
-  
-- **Version Control**:
-  - Git
-  - GitHub
-  
-- **Other Tools**:
-  - Wireshark
-  - Metasploit
-  - Burp Suite
-  - Cisco Packet Tracer
 
 ## Internships & Practical Experience
 
