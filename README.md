@@ -1,6 +1,6 @@
 # **Dev Kumar**
 
-**Cybersecurity Enthusiast · Bug Bounty Hunter · Security Researcher**
+## **Cybersecurity Enthusiast   ·   Bug Bounty Hunter   ·   Security Researcher**
 
 Welcome to my GitHub — a dedicated collection of ethical hacking, security automation, and security research repositories. Every repo here is focused on practical cybersecurity: tools, CTF/learning labs, VAPT write-ups, and automation scripts.
 
