@@ -85,4 +85,5 @@ All repositories here are focused on Ethical Hacking & Cybersecurity.
 Thank you for visiting — explore the repositories to see hands-on security work and learning materials.
 
 ## TryHackMe
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3623907" style='border:none;'></iframe>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/dev.ind.png" alt="Tryhackme badge image" />
